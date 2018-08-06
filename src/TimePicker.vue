@@ -146,6 +146,13 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+:root {
+  --gray-darker: #6c757d;
+  --color-accent: #4d69d8;
+  --color-accent-light: #dee3f7;
+  --padding-default: 1.2rem;
+}
+
 .timepicker {
   position: relative;
 }
